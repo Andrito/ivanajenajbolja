@@ -17,13 +17,13 @@ body {
 
 body {
     align-items: center;
-    background-color: #FFB7C5;
+    background-color: #FFB7C4;
     display: flex;
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
 }
 
 .container {
-    color: white;
+    color: black;
     margin: 0 auto;
     text-align: center;
     display: flex;
